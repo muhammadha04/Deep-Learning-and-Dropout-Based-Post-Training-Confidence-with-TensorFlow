@@ -1,2 +1,2 @@
 # Deep-Learning-and-Dropout-Based-Post-Training-Confidence-with-TensorFlow
-the exercise also includes modifying the network architecture and activation functions to achieve better performance. Confidence estimation is also explored through the use of post-training dropout to generate multiple classifiers, with the confidence of the classification determined by the percentage of classifiers that voted for the same result.
+ 
